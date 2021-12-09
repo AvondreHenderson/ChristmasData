@@ -6,3 +6,4 @@
 * "movies.ipynb" is the notebook for pulling Christmas movies from OMDB and putting into PostgreSQL.
 * "config.py" must contain the user's OMDB api key for "movies.ipynb" to operate.
 * "config.py" must be present in the same directory as "movies.ipynb".
+* "ChristmasDB.sql" is a backup PostgreSQL file containing the final recipes and movies tables.

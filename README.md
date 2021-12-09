@@ -1,4 +1,4 @@
-# Christmas Recipes Data <br>
+# Christmas Recipes and Movies <br>
 
 * "recipes.ipynb" is the notebook for importing the recipe data file into PostgreSQL.
 * "recipes.json" is the data file containing the christmas recipes.

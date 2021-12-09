@@ -1,4 +1,8 @@
 # Christmas Recipes Data <br>
-* "recipes.ipynb" is the notebook for importing the data file into PostgreSQL.
+
+* "recipes.ipynb" is the notebook for importing the recipe data file into PostgreSQL.
 * "recipes.json" is the data file containing the christmas recipes.
 * "recipes.json" needs to remain in the same directory as "recipes.ipynb".
+* "movies.ipynb" is the notebook for pulling Christmas movies from OMDB and putting into PostgreSQL.
+* "config.py" must contain the user's OMDB api key for "movies.ipynb" to operate.
+* "config.py" must be present in the same directory as "movies.ipynb".

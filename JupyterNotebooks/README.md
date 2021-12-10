@@ -1,4 +1,4 @@
-# JupyterNotebooks Folder
+# JupyterNotebooks
 
 This folder contains all the Jupyter notebooks that were used to perform the Extraction, Transformation, and Loading operations for this project.
 

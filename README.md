@@ -14,6 +14,8 @@
 * "ChristmasDB.sql" is a backup PostgreSQL file containing the final recipes and movies tables.
 * SalesData_Michael.ipynb is the notebook pulling all of the Holiday Shopping data. 
 * "Christmas Music" contains the database for all of the Christmas Music. 
+* The "Resources" folder contains the csv files for the toy sales and music notebook
 
 
 #### The Folder "Christmas Pictures" contains all of the photos that were used in the powerpoint presentation
+
